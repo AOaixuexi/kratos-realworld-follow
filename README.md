@@ -40,6 +40,3 @@ cd cmd/server
 wire
 ```
 
-## example
-![Uploading 1723556202764.jpg…]()
-
